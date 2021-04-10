@@ -2,10 +2,10 @@
 
 Each file contains the following information:
 
-- unix_event_time
+- event_time
 - symbol	
-- unix_kline_Start_Time	
-- unix_kline_Close_Time	
+- kline_Start_time	
+- kline_Close_time	
 - open_price	
 - close_price	
 - high_price	
