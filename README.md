@@ -1,5 +1,9 @@
 # Candlestick Report
 
+<p align="center">
+<img src="./logo.jpg" width="600px" height="auto" alt="picture from https://unsplash.com/photos/Ejcuhcdfwrs"/>
+</p>
+
 Each file contains the following information:
 
 - event_time
