@@ -8,8 +8,8 @@ Each file contains the following information:
 
 - event_time
 - symbol	
-- kline_Start_time	
-- kline_Close_time	
+- kline_start_time	
+- kline_close_time	
 - open_price	
 - close_price	
 - high_price	
