@@ -1,4 +1,4 @@
-event_time;symbol;kline_start_time;kline_Close_Time;open_price;close_price;high_price;low_price;base_asset_volume;number_of_trades;quote_asset_volume;taker_buy_base_asset_volume;taker_buy_quote_asset_volume
+event_time;symbol;kline_start_time;kline_close_time;open_price;close_price;high_price;low_price;base_asset_volume;number_of_trades;quote_asset_volume;taker_buy_base_asset_volume;taker_buy_quote_asset_volume
 2021-04-11 00:00:00.000;BTCEUR;2021-04-10 23:59:00.000;2021-04-10 23:59:59.999;49664.38000000;49696.80000000;49700.02000000;49661.80000000;1.05918900;109;52623.41640952;0.67571600;33575.52204887
 2021-04-11 00:01:00.000;BTCEUR;2021-04-11 00:00:00.000;2021-04-11 00:00:59.999;49702.05000000;49700.88000000;49708.26000000;49688.77000000;0.37492100;103;18634.33657128;0.17679300;8786.65551284
 2021-04-11 00:02:00.000;BTCEUR;2021-04-11 00:01:00.000;2021-04-11 00:01:59.999;49700.88000000;49682.13000000;49700.88000000;49654.22000000;1.25450900;102;62321.00639564;0.67017800;33292.60286292
